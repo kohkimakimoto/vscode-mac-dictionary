@@ -1,6 +1,6 @@
 # vscode-mac-dictionary
 
-Integrates OSX Dictionary.app with vscode.
+Integrates Mac Dictionary.app with vscode.
 
 ## Usage
 
