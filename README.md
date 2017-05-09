@@ -6,4 +6,4 @@ A lot of the code is borrowed from [vscode-dash](https://github.com/deerawan/vsc
 
 ## Usage
 
-You can look up the selected word in Dictionary.app by CTRL-CMD-K.
+You can look up the selected word in Dictionary.app by `CTRL-CMD-K`.
