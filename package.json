@@ -2,10 +2,19 @@
     "name": "vscode-mac-dictionary",
     "displayName": "Mac Dictionary",
     "description": "Integrates Mac Dictionary.app with vscode.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "kohkimakimoto",
+    "homepage": "https://github.com/kohkimakimoto/vscode-mac-dictionary",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kohkimakimoto/vscode-mac-dictionary"
+    },
     "engines": {
         "vscode": "^1.12.0"
+    },
+    "bugs": {
+        "url": "https://github.com/kohkimakimoto/vscode-mac-dictionary/issues",
+        "email": "kohki.makimoto@gmail.com"
     },
     "categories": [
         "Other"
