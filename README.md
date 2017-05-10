@@ -7,3 +7,6 @@ A lot of the code is borrowed from [vscode-dash](https://github.com/deerawan/vsc
 ## Usage
 
 You can look up the selected word in Dictionary.app by `CTRL-CMD-K`.
+
+![dictionary](https://raw.githubusercontent.com/kohkimakimoto/vscode-mac-dictionary/master/screenshot.gif)
+
