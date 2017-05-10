@@ -2,7 +2,7 @@
     "name": "vscode-mac-dictionary",
     "displayName": "Mac Dictionary",
     "description": "Integrates Mac Dictionary.app with vscode.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "kohkimakimoto",
     "engines": {
         "vscode": "^1.12.0"
